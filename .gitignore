@@ -1,0 +1,4 @@
+*.ipynb
+data-engineering-coding-challenge-master
+.ipynb_checkpoints
+*.parquet
